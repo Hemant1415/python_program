@@ -98,12 +98,4 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
 ---
 
-![Python If-Else](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
 
-![Python Loops](https://cdn.pixabay.com/photo/2016/02/19/11/30/milky-way-1209402_960_720.jpg)
-
-![Python Dictionaries](https://cdn.pixabay.com/photo/2016/09/29/20/01/milky-way-1701447_960_720.jpg)
-
-![Python Strings](https://cdn.pixabay.com/photo/2017/01/17/23/21/soap-bubble-1989120_960_720.jpg)
-
-![Python Higher Level](https://cdn.pixabay.com/photo/2017/10/30/18/11/binary-2908147_960_720.jpg)
